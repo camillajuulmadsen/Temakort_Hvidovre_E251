@@ -1,0 +1,1 @@
+var json_Hospitaler_7 = {"type":"FeatureCollection","name":"Hospitaler_7","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"Name":"Hvidovre Hospital"},"geometry":{"type":"Point","coordinates":[12.4632829,55.6475272]}}]}
